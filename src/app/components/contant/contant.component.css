@@ -1,0 +1,25 @@
+.box {
+    color: #353793 !important;
+    font-size: x-large;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+    color: #353793 !important;
+}
+fa-icon{
+    color: #e41f26  !important;
+}
+span{
+    font-size: 18px;
+}
+
+.bg-btn{
+    background-color: #353793;
+    color: #fff;
+}
+
+.bg-btn:hover{
+    background-color: #e41f26;
+    color: #fff;
+}
